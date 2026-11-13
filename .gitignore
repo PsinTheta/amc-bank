@@ -1,0 +1,30 @@
+# Build output
+target/
+bin/
+dist/
+*.class
+
+# Dependencies
+node_modules/
+
+# IDE / editors
+.idea/
+.vscode/
+*.iml
+.settings/
+.project
+.classpath
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
